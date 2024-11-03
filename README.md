@@ -113,7 +113,7 @@ Assignment: Reverse Engineering any
  process.
 
 7. Screenshots Of Tasks!
-   [Screenshot 2024-11-02 050731](https://github.com/user-attachments/assets/ded0d807-4075-4750-905e-057edb221b42)
+   ![Screenshot 2024-11-02 050731](https://github.com/user-attachments/assets/ded0d807-4075-4750-905e-057edb221b42)
    ![Screenshot 2024-11-02 050747](https://github.com/user-attachments/assets/25d9f092-cce3-49f1-bba2-7199140ae1ab)
    ![Screenshot 2024-11-02 050303](https://github.com/user-attachments/assets/eef5d7b8-6ea1-4328-8a50-33e0c9f4329e)
    ![Screenshot 2024-11-02 201101](https://github.com/user-attachments/assets/2518c10e-3179-45c6-aa27-e69da7beb35c)
