@@ -31,24 +31,31 @@ Assignment: Reverse Engineering any
  B. Identify API Endpoints and Authentication Mechanisms
  ● Tools Used:
  ○ Burp Suite for capturing API calls
+ 
  ● Captured API Endpoints:
  ○ GetVenue Information
- ■ GET
+  ■ GET
  /order-xp/mobile/v1/pages/venue?venue_i
  d={venue_id}&lat={lat}&lon={lon}
+ 
  ○ Search Restaurants
  ■ POST /v1/pages/search
+ 
  ○ Checkout Process
  ■ POST /order-xp/v1/pages/checkout
+ 
  ○ Consumer Registration
  ■ POST /v1/consumer
+ 
  ○ Messenger Conversation Reply
  ■ POST
  /messenger/mobile/conversations/{conver
  sation_id}/reply
+ 
  ○ Messenger Home
  ■ POST /messenger/mobile/home
-● Authentication Mechanisms:
+ 
+ ● Authentication Mechanisms:
  ○ Cookies and Tokens:
  ■ Theapplication uses session IDs
  (w-wolt-session-id) and visitor IDs
